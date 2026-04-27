@@ -1,0 +1,7 @@
+nltk
+textblob
+SpeechRecognition
+PyAudio
+numpy
+pandas
+scikit-learn
